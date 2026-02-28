@@ -20,6 +20,7 @@
 #include <string.h>
 #include <dirent.h>
 #include <sys/socket.h>
+#include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>
 #include <poll.h>
